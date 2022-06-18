@@ -1,0 +1,14 @@
+body {
+    background-color: aqua;
+}
+
+#message-container {
+    font-size: 30px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.blink {
+    font-size: 30px;
+    font-weight: 900;
+    visibility: visible;
+}
